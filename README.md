@@ -1,12 +1,13 @@
-Robbie Lens - Portfolio Photographe
+Robbie Lens - Portfolio Photographe :
+
 Site vitrine pour un photographe réalisé dans le cadre d'un projet OpenClassrooms.
 Fonctionnalités
 
-Page d'accueil avec présentation du photographe
-Galerie photo
-Navigation entre les différentes pages
+Page d'accueil avec présentation du photographe,
+Galerie photo,
+Navigation entre les différentes pages.
 
-Technologies utilisées
+Technologies utilisées :
 
 HTML
 CSS
